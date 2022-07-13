@@ -1,0 +1,18 @@
+*{
+    background-color: bisque;
+}
+
+.Kripto-moneys-all{
+    margin-top: 10%;
+       
+    
+}
+.kripto-resim{
+    width: 20px;
+}
+.fa-star:hover{
+    cursor: pointer;
+    
+}
+.yellow{color: yellow;}
+.black{color:black}
